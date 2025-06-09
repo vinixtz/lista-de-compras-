@@ -1,6 +1,6 @@
 {
   "name": "Lista de Compras",
-  "short_name": "ListaCompras",
+  "short_name": "MG's BUY",
   "description": "Aplicativo de lista de compras",
   "start_url": "/",
   "display": "standalone",
